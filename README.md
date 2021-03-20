@@ -1,1 +1,1 @@
-"# foot_stats" 
+# foot_stats
